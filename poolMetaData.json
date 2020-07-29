@@ -1,8 +1,8 @@
-    cat > poolMetaData.json << EOF
+ 
 {
 "name": "JALZ Pool",
 "description": "ADA in Korea",
 "ticker": "JALZ",
 "homepage": "https://amandy41.wixsite.com/jalzpool"
 }
-EOF
+
